@@ -160,7 +160,7 @@ export default function HomePage() {
           className="block glass rounded-2xl p-4 text-center text-sm tap-scale"
         >
           View{" "}
-          <span className="neon-text-purple font-bold">My Tournaments</span>
+          <span className="neon-text-purple font-bold">My TournamentS</span>
         </Link>
       </div>
     </>
